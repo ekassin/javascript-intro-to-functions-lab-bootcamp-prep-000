@@ -8,5 +8,5 @@ function logShout(string){
   
 }
 function logShout(string){
-  console.log(expect.spy.toUpperCase)
+  console.log(expect.spyOn.toUpperCase)
 }
