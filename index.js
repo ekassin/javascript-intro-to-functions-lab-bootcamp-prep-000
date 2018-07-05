@@ -8,5 +8,5 @@ function logShout(string){
   
 }
 function logShout(string){
-  console.log()
+  console.log(expect.spy)
 }
